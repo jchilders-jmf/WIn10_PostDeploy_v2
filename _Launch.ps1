@@ -38,7 +38,7 @@ $PSScriptRoot
 & "$PSScriptRoot\InstallJavaRTE.ps1"
 & "$PSScriptRoot\FileExtensions.ps1"
 & "$PSScriptRoot\PowerPlan.ps1"
-#& "$PSScriptRoot\Wallpaper.ps1"
+& "$PSScriptRoot\Wallpaper.ps1" -State "Custom"
 
 write-host "Finished"
 
