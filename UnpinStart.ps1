@@ -7,4 +7,3 @@ Items() |
     % { $_.Verbs() } |
     ? {$_.Name -match 'Un.*pin from Start'} |
     % {$_.DoIt()}
-}
