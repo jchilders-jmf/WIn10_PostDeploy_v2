@@ -37,6 +37,7 @@ $PSScriptRoot
 & "$PSScriptRoot\UnpinStart.ps1"
 & "$PSScriptRoot\InstallJavaRTE.ps1"
 & "$PSScriptRoot\FileExtensions.ps1"
+& "$PSScriptRoot\PowerPlan.ps1"
 #& "$PSScriptRoot\Wallpaper.ps1"
 
 write-host "Finished"
