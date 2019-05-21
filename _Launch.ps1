@@ -49,4 +49,4 @@ Start-Sleep 20
 #Start Cleanup
 # dism /online /Cleanup-Image /StartComponentCleanup
 
-# Restart-Computer
+Restart-Computer
