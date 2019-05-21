@@ -47,6 +47,6 @@ Start-Sleep 20
 #################################################################################
 
 #Start Cleanup
-dism /online /Cleanup-Image /StartComponentCleanup
+# dism /online /Cleanup-Image /StartComponentCleanup
 
 # Restart-Computer
